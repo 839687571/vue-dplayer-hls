@@ -12,7 +12,8 @@ export default {
     return {
       msg: 'Welcome to Your Vue.js App',
       video: {
-          url: 'https://logos-channel.scaleengine.net/logos-channel/live/biblescreen-ad-free/chunklist_w630020335.m3u8',
+         // url: 'https://logos-channel.scaleengine.net/logos-channel/live/biblescreen-ad-free/chunklist_w630020335.m3u8',
+         url: '../../static/playlist_Mix_h_8o.m3u8',
           pic: 'http://static.smartisanos.cn/pr/img/video/video_03_cc87ce5bdb.jpg',
           type: 'hls'
         },
