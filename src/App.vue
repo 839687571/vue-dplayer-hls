@@ -1,5 +1,8 @@
 <template>
+
+
   <div id="app">
+    <div> txt</div>
     <router-view/>
   </div>
 </template>
