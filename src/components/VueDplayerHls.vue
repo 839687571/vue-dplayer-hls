@@ -3,7 +3,7 @@
 </template>
 
 <script>
-  require('../../node_modules/dplayer/dist/DPlayer.min.css');
+  //require('../../node_modules/dplayer/dist/DPlayer.min.css');
   import DPlayer from 'DPlayer'
   export default {
     props: {
